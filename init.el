@@ -85,6 +85,16 @@
 (setq split-width-threshold 0)
 
 
+
+;;; Emacs maximize hack for KDE.
+; menu -> advanced -> special application settings -> workarounds.
+; set strictly obey geometry to force.
+; this will add padding to your editor window so it will be in maximize state. 
+
+
+
+
+
 ;;; End Of Manually Edited File
 
 
